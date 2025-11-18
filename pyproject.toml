@@ -1,0 +1,13 @@
+[project]
+name = "text-to-sql-research"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13, <3.14"
+dependencies = [
+    "datasets>=4.3.0",
+    "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.8",
+    "torch>=2.9.0",
+    "unsloth>=2025.11.3",
+]
